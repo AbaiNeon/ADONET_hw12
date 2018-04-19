@@ -1,0 +1,17 @@
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\hw_12.exe.config
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\hw_12.exe
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\hw_12.pdb
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\EntityFramework.dll
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\EntityFramework.xml
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.csprojResolveAssemblyReference.cache
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.csproj.CoreCompileInputs.cache
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.csproj.CopyComplete
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.exe
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.pdb
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.Migrations.InitialCreate.resources
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.csproj.GenerateResource.cache
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.Migrations.baseMigration.resources
+C:\Users\Abay-PC\Desktop\hw_12\hw_12\obj\Debug\hw_12.Migrations.AddedAgeProp.resources
